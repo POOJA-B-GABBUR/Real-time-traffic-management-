@@ -1,0 +1,1 @@
+This project uses IR sensors to detect traffic congestion and automatically control traffic signals. It also prioritizes ambulances through an IoT application, sends the shortest route using a GSM module, and displays emergency alerts on an LCD to help ambulances reach hospitals faster.
